@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Eliwelton 👋
 
-<!--
-**eliwelton14/eliwelton14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou focado em **Qualidade de Software (QA)**, com prática em **testes manuais, testes de API e automação de testes**.  
+Tenho desenvolvido projetos voltados para validação de fluxos reais, análise de comportamento da aplicação e garantia de qualidade em diferentes cenários.
 
-Here are some ideas to get you started:
+## 🚀 O que venho praticando
+- Testes manuais funcionais
+- Testes de API com Postman
+- Automação de testes com Cypress
+- Validação de respostas, dados e regras de negócio
+- Execução local de sistemas para testes reais
+- Organização de projetos e versionamento com Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e ferramentas
+- Postman
+- Cypress
+- GitHub
+- Git
+- Jira
+- API REST
+- BDD / Gherkin
+
+## 📌 Projetos em destaque
+- Sistema Central
+- Testes de API
+- Automação de testes
+- Validação de fluxos funcionais
+
+## 🎯 Objetivo
+Seguir evoluindo na área de QA, contribuindo com qualidade, organização e visão analítica para entregar softwares mais confiáveis e bem validados.
