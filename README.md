@@ -1,4 +1,4 @@
-# Olá, eu sou Eliwelton Q&A
+# Olá, eu sou Eliwelton
 
 Sou focado em **Qualidade de Software (QA)**, com prática em **testes manuais, testes de API e automação de testes**.  
 Tenho desenvolvido projetos voltados para validação de fluxos reais, análise de comportamento da aplicação e garantia de qualidade em diferentes cenários.
